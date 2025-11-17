@@ -3,7 +3,7 @@
 ### Grado en Ingeniería Informática
 ### Informática Básica
 
-# C++ C++ Coding Standards: Rules, Guidelines, & Best Practices
+# C++ Coding Standards: Rules, Guidelines, & Best Practices
 Buenas prácticas (Best practices) son acciones que se deben llevar a cabo porque esa forma de hacer las cosas se considera estándar o muy recomendable. 
 Es decir, o todo el mundo lo hace así (y si lo haces de otro modo, estarás haciendo algo que la gente no espera), o es mejor que hacerlo de otro modo
 
